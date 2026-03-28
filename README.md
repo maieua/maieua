@@ -1,4 +1,14 @@
-## Hi there 👋
+<p>
+  <pre align="center">
+Hi! 👋 I'm Jack, a PhD student at Cornell University studying machine learning and natural language processing.
+<a href="https://jxmo.io/">Homepage</a> / <a href="https://twitter.com/jxmnop">Twitter</a> / <a href="https://scholar.google.com/citations?user=Utsbve4AAAAJ&hl=en">Google Scholar</a> </pre>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
 
 <!--
 **maieua/maieua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
